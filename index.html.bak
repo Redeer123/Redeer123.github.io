@@ -1,0 +1,153 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Logotipos Wizzard</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="assets/css/main.css">
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css"></noscript>
+  </head>
+  <body class="is-preload"> <!-- Wrapper -->
+    <div id="wrapper">
+      <!-- Header -->
+      <header id="header" class="alt"> <a href="index.html" class="logo"><strong>Empresa</strong>
+          <span>Wizzard</span></a>
+        <nav> <a href="#menu">Menu</a> </nav>
+      </header>
+      <!-- Menu -->
+      <nav id="menu">
+        <ul class="links">
+          <li><a href="index.html">Inicio</a></li>
+          <li><a href="landing.html">Portafolio</a></li>
+          <li><a href="generic.html">Miembros</a></li>
+          <li><a href="elements.html">Pago</a></li>
+        </ul>
+        <ul class="actions stacked">
+          <li><a href="#" class="button primary fit">Empieza ya</a></li>
+          <li><a href="#" class="button fit">Iniciar sesion</a></li>
+        </ul>
+      </nav>
+      <!-- Banner -->
+      <section id="banner" class="major">
+        <div class="inner">
+          <header class="major">
+            <h1>Hola, Bienvenido a Wizzard</h1>
+          </header>
+          <div class="content">
+            <p>Nosotros somos una empresa de diseño grafico y motion graphics <br>
+              en la realizacion de logostipos.</p>
+            <ul class="actions">
+              <li><a href="#one" class="button next scrolly">Empieza ya</a></li>
+            </ul>
+          </div>
+        </div>
+      </section>
+      <!-- Main -->
+      <div id="main">
+        <!-- One -->
+        <section id="one" class="tiles">
+          <article> <span class="image"> <img src="images/pic01.jpg" alt=""> </span>
+            <header class="major">
+              <h3><a href="landing.html" class="link">Creacion de logostipos 2D</a></h3>
+              <p>Nosotros nos encargamos de crear y hacer que tu logotipo se vea mas atractivo. </p>
+            </header>
+          </article>
+          <article> <span class="image"> <img src="images/pic02.jpg" alt=""> </span>
+            <header class="major">
+              <h3><a href="landing.html" class="link">Creacion de Logotipo 3D</a></h3>
+              <p>Contamos con Miembros que son capaces de crear logos 3D suaves y elegantes</p>
+            </header>
+          </article>
+          <article> <span class="image"> <img src="images/pic03.jpg" alt=""> </span>
+            <header class="major">
+              <h3><a href="landing.html" class="link">Animar Logos</a></h3>
+              <p>Si buscas dar vida a tus logos para publicidad o presentacion, ¡viniste a la pagina correcta!.</p>
+            </header>
+          </article>
+          <article> <span class="image"> <img src="images/pic04.jpg" alt=""> </span>
+            <header class="major">
+              <h3><a href="landing.html" class="link">Metodo de Pago</a></h3>
+              <p>Contamos de varias plataformas, cuentas bancarias y la mas conocida Paypal, para que el metodo de pagos sea mas rapido in eficaz. </p>
+            </header>
+          </article>
+        </section>
+        <!-- Two -->
+        <section id="two">
+          <div class="inner">
+            <header class="major">
+              <h2>¡Echa un vistaso a nuestros protafolios!</h2>
+            </header>
+            <p>Aqui mostramos nuestros diseños de cada miembro de nuestra empresa, su estilo de diseño 2D y 3D, su estilo de animar entre otros. </p>
+            <ul class="actions">
+              <li><a href="landing.html" class="button next">Nuestro portafolio</a></li>
+            </ul>
+          </div>
+        </section>
+      </div>
+      <!-- Contact -->
+      <section id="contact">
+        <div class="inner">
+          <section>
+            <form method="post" action="#">
+              <div class="fields">
+                <div class="field half"> <label for="name">Nombre</label> <input
+
+                    name="name" id="name" type="text"> </div>
+                <div class="field half"> <label for="email">Email</label> <input
+
+                    name="email" id="email" type="text"> </div>
+                <div class="field"> <label for="message">Mensaje</label> <textarea
+
+name="message" id="message" rows="6"></textarea> </div>
+              </div>
+              <ul class="actions">
+                <li><input value="Enviar Mensaje" class="primary" type="submit"></li>
+                <li><input value="Borrar" type="reset"></li>
+              </ul>
+            </form>
+          </section>
+          <section class="split">
+            <section>
+              <div class="contact-method"> <span class="icon solid alt fa-envelope"></span>
+                <h3>Email</h3>
+                <a href="#">empresawizzard@gmail.com</a> </div>
+            </section>
+            <section>
+              <div class="contact-method"> <span class="icon solid alt fa-phone"></span>
+                <h3>Numero de Telefono</h3>
+                <span>(XXX) XXX-XXX x12387</span> </div>
+            </section>
+            <section>
+              <div class="contact-method"> <span class="icon solid alt fa-home"></span>
+                <h3>Direccion</h3>
+                <span>1234 Somewhere Road #5432<br>
+                  Nashville, TN 00000<br>
+                  United States of America</span> </div>
+            </section>
+          </section>
+        </div>
+      </section>
+      <!-- Footer -->
+      <footer id="footer">
+        <div class="inner">
+          <ul class="icons">
+            <li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+            <li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+            <li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+            </ul>
+          <ul class="copyright">
+            <li>© Todos los Derechos Reservados</li>
+            <li>Diseñador:rafaelgavidi2@gmail.com</li>
+          </ul>
+        </div>
+      </footer>
+    </div>
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.scrolly.min.js"></script>
+    <script src="assets/js/jquery.scrollex.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>

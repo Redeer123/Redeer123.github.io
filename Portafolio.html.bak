@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP	html5up.net | @ajlkn	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Portafolio</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="assets/css/main.css">
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css"></noscript>
+  </head>
+  <body class="is-preload">
+    <!-- Wrapper -->
+    <div id="wrapper">
+      <!-- Header -->
+      <!-- Note: The "styleN" class below should match that of the banner element. -->
+      <header id="header" class="alt style2"> <a href="index.html" class="logo"><strong>Empresa</strong>
+          <span>Wizzard</span></a>
+        <nav> <a href="Inicio.html">Menu</a> </nav>
+      </header>
+      <!-- Menu -->
+      <nav id="menu">
+        <ul class="links">
+          <li><a href="Inicio.html">Inicio</a></li>
+          <li><a href="Registro.html">Iniciar Sesion</a></li>
+          <li><a href="Portafolio.html">Portafolio</a></li>
+          <li><a href="Pago.html">Metodo de Pago</a></li>
+        </ul>
+        <ul class="actions stacked">
+          <li><a href="#" class="button primary fit">Get Started</a></li>
+          <li><a href="#" class="button fit">Log In</a></li>
+        </ul>
+      </nav>
+      <!-- Banner -->
+      <!-- Note: The "styleN" class below should match that of the header element. -->
+      <section id="banner" class="style2">
+        <div class="inner"> <span class="image"> <img src="images/pic07.jpg" alt="">
+          </span>
+          <header class="major">
+            <h1>NUESTRO PORTAFOLIO</h1>
+          </header>
+          <div class="content">
+            <p><br>
+              <br>
+            </p>
+          </div>
+        </div>
+      </section>
+      <!-- Main -->
+      <div id="main">
+        <!-- One -->
+        <section id="one">
+          <div class="inner">
+            <header class="major">
+              <h2>!AQUI ESTARA EL PORTAFOLIO DE CADA MIEMBRO DE NUESTRA EMPRESA!
+              </h2>
+              <p>Tendras la opcion de contratarlo de inmediato y un chat privado
+                donde puedes enviara tus ideas.</p>
+            </header>
+            <p><br>
+            </p>
+          </div>
+        </section>
+        <!-- Two -->
+        <section id="two" class="spotlights">
+          <section> <img src="images/creative-logos-4.png" style="width: 524px; height: 317px;">
+            <div class="content">
+              <div class="inner">
+                <header class="major">
+                  <h3>Aguirre Pereyra</h3>
+                </header>
+                <ul class="actions">
+                  <li><a href="Pago.html" class="button">Contratar</a></li>
+                </ul>
+              </div>
+            </div>
+          </section>
+          <section> <img src="images/logos_creativos.jpg" style="width: 425px; height: 351px;">
+            <div class="content">
+              <div class="inner">
+                <header class="major">
+                  <h3>Juarez Cabera</h3>
+                </header>
+                <ul class="actions">
+                  <li><a href="Pago.html" class="button">CONTRATAR</a></li>
+                </ul>
+              </div>
+            </div>
+          </section>
+          <section>&nbsp; <img src="images/4bee1419562ec705158f3604e16a2fdd.jpg"
+
+              style="width: 437px; height: 351px;"><a href="file:///C:/Windows/system32/config/systemprofile/Desktop/Redeer123.github.io/generic.html">&nbsp;</a>
+            <div class="content">
+              <div class="inner">
+                <header class="major">
+                  <h3>Rojas Ortiz</h3>
+                </header>
+                <ul class="actions">
+                  <li><a href="Pago.html" class="button">CONTRATAR</a></li>
+                </ul>
+              </div>
+            </div>
+          </section>
+        </section>
+        <a href="generic.html" class="image">&nbsp;&nbsp;</a> </div>
+      <!-- Contact -->
+      <!-- Footer -->
+      <footer id="footer">
+        <div class="inner">
+          <ul class="icons">
+            <li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+            <li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+            <li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+          </ul>
+          <ul class="copyright">
+            <li>© Todos los Derechos Reservados: Wizzard</li>
+            <li><br>
+            </li>
+          </ul>
+        </div>
+      </footer>
+    </div>
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.scrolly.min.js"></script>
+    <script src="assets/js/jquery.scrollex.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+    
+  </body>
+</html>
